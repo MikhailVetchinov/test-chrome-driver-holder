@@ -12,7 +12,7 @@
         <dependency>
             <groupId>ru.sberbank.qa</groupId>
             <artifactId>chrome-driver-holder</artifactId>
-            <version>2.38</version>
+            <version>2.38.1</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
